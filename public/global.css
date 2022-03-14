@@ -1,0 +1,19 @@
+.paragraph {
+  text-align: justify;
+}
+
+.centered-container {
+  align-content: center;
+  align-items: center;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
+.container-centered {
+  align-content: center;
+  align-items: center;
+  width: 25rem;
+  height: 20rem;
+  padding-top: 5rem;
+  padding-bottom: 10rem;
+}
